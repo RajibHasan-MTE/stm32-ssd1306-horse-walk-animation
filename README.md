@@ -42,41 +42,28 @@ stm32-ssd1306-horse-walk-animation/
    ```bash
    git clone https://github.com/yourusername/stm32-ssd1306-horse-walk-animation.git
 
-Open the project in Keil µVision IDE.
+2. Open the project in Keil µVision IDE.
 
-Connect the STM32 Blackpill to your SSD1306 (I2C/SPI).
+3. Connect the STM32 Blackpill to your SSD1306 (I2C/SPI).
 
-Build and flash the firmware using ST-LINK.
+4. Build and flash the firmware using ST-LINK.
 
-Watch the horse walk… frame by frame! 🐎🎥
+5. Watch the horse walk… frame by frame! 🐎🎥
 
-🎥 Demo
-
-[Coming Soon: Horse walking animation video]
+🎥 video link: https://www.facebook.com/share/v/17DPMQyqkW/
 
 📚 Learn More
 
 This project is a great way to explore:
 
-STM32 basics
+- STM32 basics
 
-SSD1306 display interfacing
+- SSD1306 display interfacing
 
-Bitmap animations
+- Bitmap animations
 
-Frame rendering on embedded devices
+- Frame rendering on embedded devices
 
 🤝 Contributing
 
 Feel free to open issues or suggest improvements. Want to add more animations? PRs are welcome!
-
-📜 License
-
-This project is licensed under the MIT License.
-
-🐎 Horse Walking on Display? Yes, with STM32 + SSD1306!
-
-
----
-
-Do you want me to also make a **shorter README (minimalist style)** for uploading quickly to GitHub, 
